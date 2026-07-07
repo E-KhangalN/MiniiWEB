@@ -1,0 +1,6 @@
+{
+  "name": "Lithos - Khangal",
+  "description": "An interactive, premium dark-themed hero section and portfolio for Khangal, a 25-year-old Mathematics & Coding educator. Features a cursor-following spotlight reveal effect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
